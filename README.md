@@ -32,7 +32,7 @@ In this challenge I have conducted basic analysis and data exploration from a SQ
 
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
 
-  * Using SQLAlchemy ORM, I have designed a query in Pandas to look for the last 12 months of precipiation data for the station with the most observations (station USC00519281) and plotted the data using Matplotlib.
+  * Using SQLAlchemy ORM, I have designed a query in Pandas to look for the last 12 months of temperature data for the station with the most observations (station USC00519281) and plotted the data by frequency using Matplotlib.
 
 ![Plot1](images/plot1.png)
 
